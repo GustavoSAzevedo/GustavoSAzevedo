@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96DED1&height=120&section=header"/>
-
 ### Olá! Você esta visualisando o perfil de Gustavo Azevedo!! 👨‍💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santossksd)
 
