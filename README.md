@@ -1,8 +1,6 @@
 ### Olá! Você esta visualisando o perfil de Gustavo Azevedo!! 👨‍💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santossksd)
 
-![Gustavo Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSAzevedo&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSAzevedo)](https://github.com/GustavoSAzevedo/github-readme-stats)
 
 ### Tecnologias
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
