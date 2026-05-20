@@ -11,4 +11,4 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 
 ## Email: 
-#### santos.obpc@gmail.com
+#### azevedogustavo0811@gmail.com
